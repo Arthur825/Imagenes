@@ -1,0 +1,182 @@
+[
+  {
+    "nombre": "Hot Cakes de Choco Avena",
+    "ingredientes": "1 Taza de harina para hot cakes integral, 2 Huevos, 5 Cucharadas de NESQUIK® Chocolate en Polvo + Avena, 3/4 De taza de Leche Evaporada CARNATION® CLAVEL®, 1 Cucharadita de aceite vegetal, 1 Cucharada de mantequilla, 1 Taza de fresas desinfectadas y rebanadas",
+    "tiempo": "17 a 20 min",
+    "categoria": "Almuerzo",
+    "imagenUrl": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/ffc8d900834da2f2cbba59f5a7bf4ca7.webp?itok=L0t0Joax",
+	"isFavorite": false,
+    "preparacion": "¡A cocinar!\nMezcla los ingredientes\n \n1.Licúa la harina con los huevos, el NESQUIK® Chocolate en Polvo + Avena, la Leche Evaporada CARNATION® CLAVEL® y el aceite..\n\nCocina\n\n2.Calienta una sartén pequeña y engrasa con mantequilla; vierte un poco de la mezcla y forma los hot cakes de aproximadamente 10 centímetros. Cocina por ambos lados hasta que doren ligeramente. Repite con el resto de la mezcla.\n\nAcompaña con fresas\n\n3.Sirve los hot cakes con las fresas y ofrece. "
+  },
+  {
+    "nombre": "Licuado de Manzana y Canela",
+    "ingredientes": "2 Tazas de leche, descremada, 1/2 Cucharadita de Canela molida, 2 Manzanas verdes, sin semilla, 4 Cucharadas de Péptidos de Colágeno en Polvo VITAL PROTEINS® Sin Sabor",
+    "tiempo": "5 a 8 min",
+    "categoria": "Almuerzo",
+    "imagenUrl": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/695be8ae23e384e3208bf2350b5f7586.webp?itok=_s6pqOOj",
+	"isFavorite": false,
+    "preparacion": "¡A cocinar!\nIntegra los ingredientes\n\n1.Licúa el Péptidos de Colágeno en Polvo VITAL PROTEINS® Sin Sabor con las manzanas, la canela y la leche.\n\nVierte\n\n2.Sirve en vasos\n\n¡Listo!\n\n3.Disfruta  "
+  },
+  {
+    "nombre": "Ensalada César",
+    "ingredientes": "Lechuga, Pollo, Queso parmesano, Crutones, Aderezo César",
+    "tiempo": "20 min",
+    "categoria": "Almuerzo",
+    "imagenUrl": "https://example.com/cesar.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Lavar la lechuga.\n2. Cocinar el pollo.\n3. Cortar en trozos.\n4. Mezclar todo.\n5. Agregar aderezo."
+  },
+  {
+    "nombre": "Tacos de Pollo",
+    "ingredientes": "Tortillas, Pollo, Lechuga, Tomate, Crema",
+    "tiempo": "25 min",
+    "categoria": "Comida",
+    "imagenUrl": "https://example.com/tacos.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Cocinar el pollo.\n2. Desmenuzar.\n3. Calentar tortillas.\n4. Armar tacos.\n5. Agregar toppings."
+  },
+  {
+    "nombre": "Panqueques",
+    "ingredientes": "Harina, Leche, Huevos, Azúcar, Mantequilla",
+    "tiempo": "20 min",
+    "categoria": "Almuerzo",
+    "imagenUrl": "https://example.com/panqueques.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Mezclar ingredientes.\n2. Calentar sartén.\n3. Verter mezcla.\n4. Cocinar por ambos lados.\n5. Servir con miel."
+  },
+  {
+    "nombre": "Sopa de Verduras",
+    "ingredientes": "Zanahoria, Papa, Calabaza, Apio, Agua, Sal",
+    "tiempo": "35 min",
+    "categoria": "Cena",
+    "imagenUrl": "https://example.com/sopa.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Cortar verduras.\n2. Hervir agua.\n3. Agregar verduras.\n4. Cocinar hasta suavizar.\n5. Sazonar."
+  },
+  {
+    "nombre": "Arroz con Pollo",
+    "ingredientes": "Arroz, Pollo, Zanahoria, Chícharos, Caldo",
+    "tiempo": "45 min",
+    "categoria": "Comida",
+    "imagenUrl": "https://example.com/arrozpollo.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Sofreír arroz.\n2. Agregar pollo.\n3. Añadir verduras.\n4. Verter caldo.\n5. Cocinar hasta listo."
+  },
+  {
+    "nombre": "Hamburguesa Casera",
+    "ingredientes": "Carne molida, Pan, Lechuga, Tomate, Queso",
+    "tiempo": "30 min",
+    "categoria": "Cena",
+    "imagenUrl": "https://example.com/hamburguesa.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Formar carne.\n2. Cocinar en sartén.\n3. Tostar pan.\n4. Armar hamburguesa.\n5. Servir."
+  },
+  {
+    "nombre": "Pizza Margarita",
+    "ingredientes": "Masa, Tomate, Queso mozzarella, Albahaca",
+    "tiempo": "50 min",
+    "categoria": "Cena",
+    "imagenUrl": "https://example.com/pizza.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Preparar masa.\n2. Añadir salsa.\n3. Agregar queso.\n4. Hornear.\n5. Decorar con albahaca."
+  },
+  {
+    "nombre": "Omelette de Jamón",
+    "ingredientes": "Huevos, Jamón, Queso, Sal",
+    "tiempo": "15 min",
+    "categoria": "Almuerzo",
+    "imagenUrl": "https://example.com/omelette.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Batir huevos.\n2. Calentar sartén.\n3. Agregar mezcla.\n4. Añadir jamón y queso.\n5. Doblar y servir."
+  },
+  {
+    "nombre": "Guacamole",
+    "ingredientes": "Aguacate, Limón, Sal, Cebolla, Cilantro",
+    "tiempo": "10 min",
+    "categoria": "Almuerzo",
+    "imagenUrl": "https://example.com/guacamole.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Machacar aguacate.\n2. Añadir limón.\n3. Mezclar ingredientes.\n4. Sazonar.\n5. Servir."
+  },
+  {
+    "nombre": "Quesadillas",
+    "ingredientes": "Tortillas, Queso, Aceite",
+    "tiempo": "15 min",
+    "categoria": "Cena",
+    "imagenUrl": "https://example.com/quesadillas.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Calentar tortilla.\n2. Añadir queso.\n3. Doblar.\n4. Cocinar.\n5. Servir."
+  },
+  {
+    "nombre": "Hot Dogs",
+    "ingredientes": "Salchichas, Pan, Mostaza, Ketchup",
+    "tiempo": "15 min",
+    "categoria": "Cena",
+    "imagenUrl": "https://example.com/hotdog.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Cocer salchichas.\n2. Calentar pan.\n3. Armar hot dog.\n4. Añadir salsas.\n5. Servir."
+  },
+  {
+    "nombre": "Batido de Fresa",
+    "ingredientes": "Fresas, Leche, Azúcar",
+    "tiempo": "10 min",
+    "categoria": "Almuerzo",
+    "imagenUrl": "https://example.com/batido.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Lavar fresas.\n2. Licuar con leche.\n3. Añadir azúcar.\n4. Mezclar.\n5. Servir frío."
+  },
+  {
+    "nombre": "Pollo al Horno",
+    "ingredientes": "Pollo, Ajo, Limón, Sal, Pimienta",
+    "tiempo": "60 min",
+    "categoria": "Comida",
+    "imagenUrl": "https://example.com/pollo.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Sazonar pollo.\n2. Precalentar horno.\n3. Colocar en bandeja.\n4. Hornear.\n5. Servir."
+  },
+  {
+    "nombre": "Lentejas",
+    "ingredientes": "Lentejas, Zanahoria, Papa, Ajo, Agua",
+    "tiempo": "50 min",
+    "categoria": "Comida",
+    "imagenUrl": "https://example.com/lentejas.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Lavar lentejas.\n2. Cocinar en agua.\n3. Añadir verduras.\n4. Sazonar.\n5. Servir."
+  },
+  {
+    "nombre": "Chilaquiles",
+    "ingredientes": "Totopos, Salsa, Queso, Crema, Pollo",
+    "tiempo": "25 min",
+    "categoria": "Almuerzo",
+    "imagenUrl": "https://example.com/chilaquiles.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Calentar salsa.\n2. Añadir totopos.\n3. Mezclar.\n4. Agregar toppings.\n5. Servir."
+  },
+  {
+    "nombre": "Puré de Papa",
+    "ingredientes": "Papa, Mantequilla, Leche, Sal",
+    "tiempo": "30 min",
+    "categoria": "Comida",
+    "imagenUrl": "https://example.com/pure.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Cocer papas.\n2. Machacar.\n3. Añadir mantequilla.\n4. Agregar leche.\n5. Mezclar."
+  },
+  {
+    "nombre": "Sandwich Mixto",
+    "ingredientes": "Pan, Jamón, Queso, Mantequilla",
+    "tiempo": "10 min",
+    "categoria": "Almuerzo",
+    "imagenUrl": "https://example.com/sandwich.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Untar mantequilla.\n2. Añadir jamón y queso.\n3. Tostar.\n4. Cortar.\n5. Servir."
+  },
+  {
+    "nombre": "Gelatina de Frutas",
+    "ingredientes": "Gelatina, Agua, Frutas",
+    "tiempo": "120 min",
+    "categoria": "Cena",
+    "imagenUrl": "https://example.com/gelatina.jpg",
+	"isFavorite": false,
+    "preparacion": "1. Preparar gelatina.\n2. Añadir frutas.\n3. Refrigerar.\n4. Esperar.\n5. Servir."
+  }
+]
