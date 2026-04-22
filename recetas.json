@@ -1,8 +1,8 @@
 [
   {
     "nombre": "Hot Cakes de Choco Avena",
-    "ingredientes": "1 Taza de harina para hot cakes integral\n2 Huevos\n5 Cucharadas de NESQUIK® Chocolate en Polvo + Avena\n3/4 De taza de Leche Evaporada CARNATION® CLAVEL®\n1 Cucharadita de aceite vegetal\n1 Cucharada de mantequilla\n1 Taza de fresas desinfectadas y rebanadas",
-    "tiempo": "17 a 20 min",
+    "ingredientes": " 1 Taza de harina para hot cakes integral, 2 Huevos, 5 Cucharadas de NESQUIK® Chocolate en Polvo + Avena, 3/4 De taza de Leche Evaporada CARNATION® CLAVEL®, 1 Cucharadita de aceite vegetal, 1 Cucharada de mantequilla, 1 Taza de fresas desinfectadas y rebanadas",
+    "tiempo": "20 min",
     "categoria": "Almuerzo",
     "imagenUrl": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/ffc8d900834da2f2cbba59f5a7bf4ca7.webp?itok=L0t0Joax",
 	"isFavorite": false,
@@ -10,21 +10,21 @@
   },
   {
     "nombre": "Licuado de Manzana y Canela",
-    "ingredientes": "2 Tazas de leche descremada\n1/2 Cucharadita de Canela molida\n2 Manzanas verdes, sin semilla\n4 Cucharadas de Péptidos de Colágeno en Polvo VITAL PROTEINS® Sin Sabor",
-    "tiempo": "5 a 8 min",
+    "ingredientes": "2 Tazas de leche, descremada, 1/2 Cucharadita de Canela molida, 2 Manzanas verdes, sin semilla, 4 Cucharadas de Péptidos de Colágeno en Polvo VITAL PROTEINS® Sin Sabor",
+    "tiempo": "8 min",
     "categoria": "Almuerzo",
     "imagenUrl": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/695be8ae23e384e3208bf2350b5f7586.webp?itok=_s6pqOOj",
 	"isFavorite": false,
     "preparacion": "¡A cocinar!\nIntegra los ingredientes\n\n1.Licúa el Péptidos de Colágeno en Polvo VITAL PROTEINS® Sin Sabor con las manzanas, la canela y la leche.\n\nVierte\n\n2.Sirve en vasos\n\n¡Listo!\n\n3.Disfruta  "
   },
   {
-    "nombre": "Ensalada César",
-    "ingredientes": "Lechuga, Pollo, Queso parmesano, Crutones, Aderezo César",
-    "tiempo": "20 min",
+    "nombre": " Pan Francés Tiramisú",
+    "ingredientes": "3/4 Taza de Leche Evaporada CARNATION® CLAVEL®, 1 Cucharada de cocoa, en polvo, 1 Cucharada de Café 100% Puro Soluble NESCAFÉ® CLÁSICO®, 1 Huevo, 1 Cucharada de esencia de vainilla, 1/2 Barra de mantequilla (45 g) (45 g), 8 Rebanadas de pan de caja, 2 Tazas de yogurt griego, natural, 1/4 Taza de Leche Condensada LA LECHERA®, 1 Cucharada de cocoa, en polvo, 2 Tazas de frutos rojos, 8 Hojas de menta, desinfectada",
+    "tiempo": "30 min",
     "categoria": "Almuerzo",
-    "imagenUrl": "https://example.com/cesar.jpg",
+    "imagenUrl": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/aa1b0f5a60a61678209522016e14fb93.webp?itok=1xL0jtN_",
 	"isFavorite": false,
-    "preparacion": "1. Lavar la lechuga.\n2. Cocinar el pollo.\n3. Cortar en trozos.\n4. Mezclar todo.\n5. Agregar aderezo."
+    "preparacion": "1.Mezcla la Leche Evaporada CARNATION® CLAVEL®, 1 cucharada de cocoa, ½ cucharada de Café 100% Puro Soluble NESCAFÉ® CLÁSICO®, el huevo y la esencia de vainilla, bate hasta integrar por completo.\n\n2.En una sartén caliente, funde un poco de mantequilla, humedece una rebanada de pan con la mezcla anterior y cocina por ambos lados hasta que dore ligeramente; repite con el resto de los ingredientes.\n\n3.Mezcla el yogurt con la Leche Condensada LA LECHERA®, la cocoa y ½ cucharada de Café 100% Puro Soluble NESCAFÉ® CLÁSICO®. Sirve una rebanada de pan, agrega un poco de la preparación de yogurt, añade otra rebanada de pan un poco más de yogurt, decora con un poco más de cocoa y repite el procedimiento con el resto de los ingredientes. Decora con los frutos rojos y la menta; ofrece. "
   },
   {
     "nombre": "Tacos de Pollo",
