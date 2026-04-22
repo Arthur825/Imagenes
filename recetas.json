@@ -27,13 +27,13 @@
     "preparacion": "1.Mezcla la Leche Evaporada CARNATION® CLAVEL®, 1 cucharada de cocoa, ½ cucharada de Café 100% Puro Soluble NESCAFÉ® CLÁSICO®, el huevo y la esencia de vainilla, bate hasta integrar por completo.\n\n2.En una sartén caliente, funde un poco de mantequilla, humedece una rebanada de pan con la mezcla anterior y cocina por ambos lados hasta que dore ligeramente; repite con el resto de los ingredientes.\n\n3.Mezcla el yogurt con la Leche Condensada LA LECHERA®, la cocoa y ½ cucharada de Café 100% Puro Soluble NESCAFÉ® CLÁSICO®. Sirve una rebanada de pan, agrega un poco de la preparación de yogurt, añade otra rebanada de pan un poco más de yogurt, decora con un poco más de cocoa y repite el procedimiento con el resto de los ingredientes. Decora con los frutos rojos y la menta; ofrece. "
   },
   {
-    "nombre": "Tacos de Pollo",
-    "ingredientes": "Tortillas, Pollo, Lechuga, Tomate, Crema",
+    "nombre": "Quesadillas de Carne Deshebrada",
+    "ingredientes": "Carne de res, Cebolla blanca, Dientes de ajo, Hoja de laurel, Sal al gusto, Harina de maíz, Agua, Queso Oaxaca, Lechuga picada, Queso, Crema de mesa",
     "tiempo": "25 min",
     "categoria": "Comida",
-    "imagenUrl": "https://example.com/tacos.jpg",
+    "imagenUrl": "https://www.mexicoenmicocina.com/wp-content/uploads/2022/08/Quesadilla-de-carne-deshebrada-receta-1.jpg",
 	"isFavorite": false,
-    "preparacion": "1. Cocinar el pollo.\n2. Desmenuzar.\n3. Calentar tortillas.\n4. Armar tacos.\n5. Agregar toppings."
+    "preparacion": "Coloca la carne en una olla con ½ cebolla y 2 dientes de ajo. Añada la hoja de laurel y cubra con 2 tazas de agua. Cocina hasta que la carne esté tierna y se pueda sehebrar facilmente. (Si utilizas una olla de presión eléctrica, cocina por 30 minutos).\n\nDeshebra la carne una vez que se haya enfriado.  Sazona con sal y reserva.\n\nMezcla 1½ tazas de masa-harina con 1¼ tazas de agua para formar una masa suave (agrega más agua si es necesario). O si estas usando masa fresca amasa con una cucharada de agua. Divida la masa en 4 bolas grandes.\n\nPresiona cada bola de masa para formar un tronco, luego colócala entre 2 hojas de plástico y presione la masa con un plato de vidrio o molde de pastel. Esto formará una gran tortilla de forma ovalada.\n\nColoca la tortilla en una comal calient, voltando la tortilla por cada lado dos veces. Una vez que la tortilla esté cocida, rellénala con 2 cucharadas de queso, 1 cuarto de taza de carne deshebrada, y cúbrala con la lechuga, la crema y el queso. Dobla la tortilla y dejala unos minutos en el comal a que se derrita bien el queso Oaxaca. "
   },
   {
     "nombre": "Panqueques",
